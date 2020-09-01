@@ -6,7 +6,7 @@ This notebook provides an introduction to GPs and code to generate samples from 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/frogstar-world-b/Gaussian-Process/master?filepath=Introduction%20to%20the%20Gaussian%20Process.ipynb)
 
-## Covariance Functions: 
+## Covariance Functions 
 
 This notebook illustrates the differences between the squared exponential and Matérn covariance functions. <br>
 <a href="https://github.com/frogstar-world-b/Gaussian-Process/blob/master/Covariance%20Functions.ipynb">Covariance Functions</a>
